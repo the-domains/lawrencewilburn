@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Anarchy is the rule of the day.
-datePublished: '2015-12-17T17:14:13.040Z'
-dateModified: '2015-12-17T17:11:02.421Z'
+datePublished: '2015-12-17T18:04:43.516Z'
+dateModified: '2015-12-17T18:02:20.800Z'
 title: Fuck the Agency
 author: []
 authors: []
