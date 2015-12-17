@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Brands for the people!]]></title>
         <description><![CDATA[Brands for the people!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lawrencewilburn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 17:11:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 17:14:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lawrencewilburn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fuck the Agency]]></title>
+            <description><![CDATA[<article><h1>Fuck the Agency</h1><p>This is a test sample post for the grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1845e8dbac3ef5b11f527680fc91b6e9b20c68ee.png"></article>]]></description>
+            <link>https://thegrid.ai/lawrencewilburn/fuck-the-agency/index.html</link>
+            <guid isPermaLink="false">00bc9b7f-5e13-4009-b35a-f247f0c73187</guid>
+            <pubDate>Thu, 17 Dec 2015 17:14:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/lawrencewilburn/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">a5347e76-7186-47a7-b28e-4e6c37dc2371</guid>
             <pubDate>Thu, 17 Dec 2015 17:11:27 GMT</pubDate>
         </item>
